@@ -1,0 +1,12 @@
+li a{
+	font-size: 30px;
+	color:black
+}
+
+li a:hover {
+	color:lime
+}
+
+img  {
+	float: left;
+}
